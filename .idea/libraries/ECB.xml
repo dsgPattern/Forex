@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ECB">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ECB.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
